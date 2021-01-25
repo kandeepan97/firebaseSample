@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817345788936",
+    "project_id": "peakpoint-e8f46",
+    "storage_bucket": "peakpoint-e8f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817345788936:android:f89a92e007534a7dc525bd",
+        "android_client_info": {
+          "package_name": "com.example.Peak_Point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817345788936-bu1igeglv95iv80n9neo8251l71c9cmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Peak_Point",
+            "certificate_hash": "b82d767f5bfd6d320ebe3bfcd0bb0064533e0daf"
+          }
+        },
+        {
+          "client_id": "817345788936-mkgbfkh0mugg777q7mkaipev1fcn5ba3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM8zheLjyOUGO-yGQW5wBQe4q6YGv9-qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817345788936-mkgbfkh0mugg777q7mkaipev1fcn5ba3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
